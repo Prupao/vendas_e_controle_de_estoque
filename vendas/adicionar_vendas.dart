@@ -7,7 +7,7 @@ import 'venda.dart';
 import 'dart:io';
 
 import 'vendas_produtos.dart';
-class addVendas{
+class AddVendas{
 
   int idVenda = 1;
   void Addsale(List<Produto>listProduct, List<Venda>listVenda, Calc calcFunctions, Control estoque, List<Controle>listSalesAndProduct, ControleDeVendas salesControl){

@@ -16,7 +16,7 @@ var listVenda = <Venda>[];
 var listSalesAndProduct = <Controle>[];
 
 var adicionarProdutos = AddProdutos();
-var adicionarVendas = addVendas();
+var adicionarVendas = AddVendas();
 var calcFunctions = Calc();
 var estoque = Control();
 var salesControl = ControleDeVendas();
